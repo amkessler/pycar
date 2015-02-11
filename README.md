@@ -1,14 +1,5 @@
-```
- 888888ba            a88888b.  .d888888   888888ba     d88  dP   dP
- 88    `8b          d8'   `88 d8'    88   88    `8b     88  88   88
-a88aaaa8P' dP    dP 88        88aaaaa88a a88aaaa8P'     88  88aaa88
- 88        88    88 88        88     88   88   `8b.     88       88
- 88        88.  .88 Y8.   .88 88     88   88     88     88       88
- dP        `8888P88  Y88888P' 88     88   dP     dP    d88P      dP
-oooooooooooo~~~~.88~oooooooooooooooooooooooooooooooooooooooooooooooo
-            d8888P
-```
-##Python mini boot camp at #NICAR14 in Baltimore
+##Python mini boot camp at #NICAR15 in Atlanta
+
 
 Let's use [Wakari.io](http://www.wakari.io/) bundles for this class. At the end, we'll give you everything working in Github.
 
@@ -31,17 +22,6 @@ We'll hold your hand through it, step by step.
 
 ####Project #2
 We have a CSV of baseball player salaries. Let's figure out who makes the most money and examine some other biographical information about them, using dictionaries.
-
-LUNCH
-
-####How to debug your code, aka "Google and StackOverflow are your new best friends"
-
-####Project #3
-This section covers webscraping with Python using a get request, writing the data to a CSV.
-
-####Project #4
-Let's use an API to get information programatically to create a spreadsheet. Our data comes in a new format: JSON. Show on the whiteboard how it's basically a combination of data structures we already know about: Lists and dicts (arrays and objects).
-
 
 At the end of the day, we'll __[send you home with](takehome/README.md)__ with:
 

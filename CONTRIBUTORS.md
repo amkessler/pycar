@@ -5,3 +5,6 @@
 * Ryan Murphy, [@rdmurphy](http://www.twitter.com/rdmurphy)
 * Eric Sagara, [@esagara](http://www.twitter.com/esagara)
 * Kevin Schaul, [@kevinschaul](http://www.twitter.com/kevinschaul)
+* Marcos Vanetta, [@malev](https://twitter.com/malev)
+* Aaron Williams, [@aboutaaron](https://twitter.com/aboutaaron)
+* Ryan Nagle, [@ryannagle](https://twitter.com/ryannagle)
