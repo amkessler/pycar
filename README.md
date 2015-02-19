@@ -64,9 +64,8 @@ You can also reach out to any of us [on Twitter](https://github.com/rnagle/pycar
 
 ## TODO:
 
-[] IPython notebook for types and functions
-[] Clean IPython notebook for project 1
-[] Ipython notebook for project 2
-[] Take home? Let's get rid of this for now!
-[] Work on the "if we have time"
-[] Use matplotlib to add some love!
+  - IPython notebook for types and functions
+  - Clean IPython notebook for project 1
+  - Ipython notebook for project 2
+  - Take home? Let's get rid of this for now or at least clean it and make it for human beings
+  - Use matplotlib to add some love!
