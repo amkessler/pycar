@@ -69,3 +69,4 @@ You can also reach out to any of us [on Twitter](https://github.com/rnagle/pycar
 [] Ipython notebook for project 2
 [] Take home? Let's get rid of this for now!
 [] Work on the "if we have time"
+[] Use matplotlib to add some love!
