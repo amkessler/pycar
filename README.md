@@ -42,7 +42,7 @@ We'll hold your hand through it, step by step.
 
 We have a CSV of baseball player salaries. Let's figure out who makes the most money and examine some other biographical information about them, using dictionaries.
 
-[The Wakari bundle](http://TKTK) 
+[The Wakari bundle](https://www.wakari.io/sharing/bundle/malev/pycar2015)
 
 #### That's all, folks!
 
@@ -61,3 +61,11 @@ If you're working through this code at home and have trouble, please let us know
 The best option is to [file an issue report](https://github.com/rnagle/pycar/issues) of the bug so we can help you.
 
 You can also reach out to any of us [on Twitter](https://github.com/rnagle/pycar/blob/master/CONTRIBUTORS.md) or ping [PythonJournos](https://groups.google.com/forum/#!forum/PythonJournos).
+
+## TODO:
+
+[] IPython notebook for types and functions
+[] Clean IPython notebook for project 1
+[] Ipython notebook for project 2
+[] Take home? Let's get rid of this for now!
+[] Work on the "if we have time"
