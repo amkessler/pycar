@@ -1,5 +1,9 @@
 ## Python micro boot camp at #NICAR15 in Atlanta
 
+  Want to upgrade your data skills? Come learn the Python programming language in this three-hour micro boot camp. Geared toward beginners, this class with go over language basics and introduce you to key concepts. You'll then take your new Python skills and learn how to read, manipulate and analyze data from a spreadsheet.
+
+  All are welcome, though some familiarity with spreadsheets and the command line will certainly help. 
+
 Let's use [Wakari.io](http://www.wakari.io/) bundles for this class. Sign up if you haven't already. Everything we'll cover in this session is included in this Github repository.
 
 In the event of spotty internet connection, we'll have the bundles on the machines, and we can use the [Anaconda distro of Python](http://docs.continuum.io/anaconda/pkgs.html)'s interactive interpreter in Windows PowerShell.
