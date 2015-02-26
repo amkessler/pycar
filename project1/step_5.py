@@ -1,39 +1,38 @@
-# import modules
+# Import modules
 
-FILE_NAME = 'fdic_failed_bank_list.csv'
+# Write a function to do some exploring with strings
 
-# write a function to do some exploring with strings
+    # Open the csv
 
-    # open the csv
+    # Create the object that represents the data in the csv file
 
-    # create the object that represents the data in the csv file
+    # Create a variable to represent the header row
 
-    # create a variable to represent the header row
+    # From the last lesson we know the variable header_row refers to a list.
+    # Let's isolate the string that is 'Acquiring Institution'
 
-    # from the last lesson we know the variable header_row refers to a list
-    # let's isolate the string that is 'Acquiring Institution'
+    # We'll do this by isolating in the list what is know as the index of the string
 
-    # we'll do this by isolating in the list what is know as the index of the string
+    # Let's make sure this is a string
 
-    # let's make sure this is a string
+    # Let's get the length of the string
 
-    # let's get the length of the string
+    # Create a variable to hold our string
 
-    # create a variable to hold our string
+    # Let's see how string subscripting works...
+    # Let's print the third characters
 
-    # let's see how string subscripting works
-    # let's print the third characters
+    # Let's print the first five characters
 
-    # let's print the first five characters
+    # Let's print everything after the first five characters
 
-    # let's print everything after the first five characters
+    # Let's capitalize the first letter in the string
 
-    # let's capitalize the first letter in the string
+    # Let's lowercase the string
 
-    # let's lowercase the string
+    # Let's uppercase the string
 
-    # let's uppercase the string
+    # Close the csv file when we're done
 
-    # close the csv file when we're done
+# Call the function, passing as an argument the name of the csv file to open.
 
-basic_string_methods('fdic_failed_bank_list.csv')

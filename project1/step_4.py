@@ -1,28 +1,27 @@
-# import modules
+# Import modules
 
-FILE_NAME = 'fdic_failed_bank_list.csv'
+# Write a function to output the first row of a csv file and get the column names
 
-# write a function to output the first row of a csv file
-# and get the column names
+    # Open the csv
 
-    # open the csv
+    # Create the object that represents the data in the csv file
 
-    # create the object that represents the data in the csv file
+    # Create a variable to represent the header row
 
-    # create a variable to represent the header row
+    # Output the value
 
-    # output the value
+    # Uutput the length of the header row
 
-    # output the length of the header row
+    # Output the type of the header row
 
-    # output the type of the header row
+    # Loop through each item in the header_row
 
-    # loop through each item in the header_row
+        # Output its contents
 
-        # output its contents
+        # Output its length
 
-        # output its length
+        # Output its type
 
-        # output its type
+    # Close the csv file when we're done
 
-    # close the csv file when we're done
+# Call the function, passing as an argument the name of the csv file to open.

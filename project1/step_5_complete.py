@@ -1,54 +1,55 @@
-# import modules
+# Import modules
 import csv
 
-# write a function to do some exploring with strings
+# Write a function to do some exploring with strings
 def working_with_strings(file_name):
 
-    # open the csv
+    # Open the csv
     csv_file = open(file_name, 'rb')
 
-    # create the object that represents the data in the csv file
+    # Create the object that represents the data in the csv file
     csv_data = csv.reader(csv_file)
 
-    # create a variable to represent the header row
+    # Create a variable to represent the header row
     header_row = csv_data.next()
 
-    # from the last lesson we know the variable header_row refers to a list
-    # let's isolate the string that is 'Acquiring Institution'
+    # From the last lesson we know the variable header_row refers to a list.
+    # Let's isolate the string that is 'Acquiring Institution'
     print header_row
 
-    # we'll do this by isolating in the list what is know as the index of the string
+    # We'll do this by isolating in the list what is know as the index of the string
     print header_row[4]
 
-    # let's make sure this is a string
+    # Let's make sure this is a string
     print type(header_row[4])
 
-    # let's get the length of the string
+    # Let's get the length of the string
     print len(header_row[4])
 
-    # create a variable to hold our string
+    # Create a variable to hold our string
     my_string = header_row[4]
 
-    # let's see how string subscripting works
-    # let's print the third characters
+    # Let's see how string subscripting works...
+    # Let's print the third character
     print my_string[2]
 
-    # let's print the first five characters
+    # Let's print the first five characters
     print my_string[:5]
 
-    # let's print everything after the first five characters
+    # Let's print everything after the first five characters
     print my_string[5:]
 
-    # let's capitalize the first letter in the string
+    # Let's capitalize the first letter in the string
     print my_string.capitalize()
 
-    # let's lowercase the string
+    # Let's lowercase the string
     print my_string.lower()
 
-    # let's uppercase the string
+    # Let's uppercase the string
     print my_string.upper()
 
-    # close the csv file when we're done
+    # Close the csv file when we're done
     csv_file.close()
 
-basic_string_methods('fdic_failed_bank_list.csv')
+# Call the function, passing as an argument the name of the csv file to open.
+working_with_strings('banklist.csv')

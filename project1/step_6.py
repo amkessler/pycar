@@ -1,42 +1,40 @@
-# import modules
+# Import modules
 
-FILE_NAME = 'fdic_failed_bank_list.csv'
+# Write a function to do some more exploring with strings
 
-# write a function to do some more exploring with strings
+    # Open the csv
 
-    # open the csv
+    # Create the object that represents the data in the csv file
 
-    # create the object that represents the data in the csv file
+    # Create a variable to represent the header row
 
-    # create a variable to represent the header row
+    # From the last lesson we know the variable header_row refers to a list.
+    # Let's isolate the string that is 'Acquiring Institution'
 
-    # from the last lesson we know the variable header_row refers to a list
-    # let's isolate the string that is 'Acquiring Institution'
+    # Create a variable to hold our string
 
-    # create a variable to hold our string
+    # Let's evaluate the uppercase version is equal to the lowercase version
 
-    # let's evaluate the uppercase version is equal to the lowercase version
+    # Let's remove the space that is present in the string
 
-    # let's remove the space that is present in the string
+    # Let's change the space to an underscore
 
-    # let's change the space to an underscore
+    # Let's look at the strip method by giving it a value
 
-    # let's look at the strip method by giving it a value
+    # Let's look at what the strip method does to the ouput of above
 
-    # let's look at what the strip method does to the ouput of above
+    # Let's try to split the string on the space
 
-    # let's try to split the string on the space
+    # Let's get the datatype for the thing we just created.
+    # First let's create a variable to hold this string
 
-    # let's get the datatype for the thing we just created
-    # first lets create a variable to hold this string
+    # Then let's get the type
 
-    # then let's get the type
+    # Because it's a list, we can again get a specfic item by it's index and we're back to where we started
 
-    # because it's a list, we can again get a specfic item by it's index
-    # and we're back to where we started
+    # For the final item, let's use the length of the list and lowercase the two strings we created to create a sentence
 
-    # for the final item let's use the length of the list and lowercase the two strings we created to create a sentence
+    # Close the csv file when we're done
 
-    # close the csv file when we're done
+# Call the function, passing as an argument the name of the csv file to open.
 
-more_string_methods('fdic_failed_bank_list.csv')

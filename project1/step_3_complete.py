@@ -23,7 +23,6 @@ def output_rows_from(file_name):
         # Output the type
         print type(row)
 
-
     # Close the csv file
     csv_file.close()
 

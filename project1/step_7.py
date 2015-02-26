@@ -1,43 +1,42 @@
-# import modules
+# Import modules
 
-FILE_NAME = 'fdic_failed_bank_list.csv'
+# Write a function to do some exploring with integers
 
-# write a function to do some exploring with integers
+    # Open the csv
 
-    # open the csv
+    # Create the object that represents the data in the csv file
 
-    # create the object that represents the data in the csv file
+    # Create a variable to represent the header row
 
-    # create a variable to represent the header row
+    # Let's get the first row of data
 
-    # let's get the first row of data
+    # Let's create a varaible off the bat to isolate the integer that is the zip code
 
-    # let's create a varaible off the bat to isolate
-    # the integer that is the zip code
+    # Let's output the value
 
-    # let's output the value
+    # Let's get the length of the integer
 
-    # let's get the length of the integer
+    # For kicks, let's multiply zipcode by 2.
+    # We should get 67876, assuming the zipcode we're using is 33938.
+    # Because it's not an integer, when we try to double it, python will simply repeat the string.
 
-    # for kicks let's multiply zipcode by 2. we should get 68592
+    # Let's double-check its type
 
-    # let's make sure this is an integer
-    # because its not an integer, when we tried to double it, python simply repeated the string
+    # Let's convert the string to an integer
 
-    # let's convert the string to an integer
+    # Now let's try some math...
 
-    # now let's try some math
+    # Multiplication
 
-    # multiplication
+    # Division
 
-    # division
+    # Addition
 
-    # addition
+    # Subtraction
 
-    # subtraction
+    # Order of operations
 
-    # order of operations
+    # Close the csv file when we're done
 
-    # close the csv file when we're done
+# Call the function, passing as an argument the name of the csv file to open.
 
-working_with_integers('fdic_failed_bank_list.csv')

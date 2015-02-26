@@ -1,60 +1,61 @@
-# import modules
+# Import modules
 import csv
 
-# write a function to do some exploring with integers
+# Write a function to do some exploring with integers
 def working_with_integers(file_name):
 
-    # open the csv
+    # Open the csv
     csv_file = open(file_name, 'rb')
 
-    # create the object that represents the data in the csv file
+    # Create the object that represents the data in the csv file
     csv_data = csv.reader(csv_file)
 
-    # create a variable to represent the header row
+    # Create a variable to represent the header row
     header_row = csv_data.next()
 
-    # let's get the first row of data
+    # Let's get the first row of data
     data_row = csv_data.next()
 
-    # let's create a varaible off the bat to isolate
-    # the integer that is the zip code
+    # Let's create a varaible off the bat to isolate the integer that is the zip code
     my_integer = data_row[3]
 
-    # let's output the value
+    # Let's output the value
     print my_integer
 
-    # let's get the length of the integer
+    # Let's get the length of the integer
     print len(my_integer)
 
-    # for kicks let's multiply zipcode by 2. we should get 68592
+    # For kicks, let's multiply zipcode by 2.
+    # We should get 67876, assuming the zipcode we're using is 33938.
+    # Because it's not an integer, when we try to double it, python will simply repeat the string.
     print my_integer * 2
 
-    # let's make sure this is an integer
-    # because its not an integer, when we tried to double it, python simply repeated the string
+    # Let's double-check its type
     print type(my_integer)
 
-    # let's convert the string to an integer
+    # Let's convert the string to an integer
     my_integer = int(my_integer)
     print type(my_integer)
 
-    # now let's try some math
+    # Now let's try some math...
 
-    # multiplication
+    # Multiplication
     print my_integer * 2
 
-    # division
+    # Division
     print my_integer / 2
 
-    # addition
+    # Addition
     print my_integer + 1000
 
-    # subtraction
+    # Subtraction
     print my_integer - 1000
 
-    # order of operations
+    # Order of operations
     print (my_integer*2+56)/100
 
-    # close the csv file when we're done
+    # Close the csv file when we're done
     csv_file.close()
 
-working_with_integers('fdic_failed_bank_list.csv')
+# Call the function, passing as an argument the name of the csv file to open.
+working_with_integers('banklist.csv')
