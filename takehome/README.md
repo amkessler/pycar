@@ -1,10 +1,20 @@
 #Resources
 
 ##Get your machine ready
-* How to install Python on Mac ([find your terminal](http://learncodethehardway.org/cli/book/cli-crash-course.html#mac-osx) and type 'python') and [Windows](http://www.anthonydebarros.com/2014/02/16/setting-up-python-in-windows-8-1/) machines.
-* __virtualenv__ (https://pypi.python.org/pypi/virtualenv) and __virtualenvwrapper__ (http://virtualenvwrapper.readthedocs.org/en/latest/), for keeping your projects sandboxed in an easy to manage way. Here's one good [tutorial](http://blog.fruiapps.com/2012/06/An-introductory-tutorial-to-python-virtualenv-and-virtualenvwrapper) and [another](http://docs.python-guide.org/en/latest/dev/virtualenvs/).
-* Install [iPython](http://ipython.org/ipython-doc/stable/install/install.html) by typing 'pip install ipython' for the souped-up interactive interpreter.
-* [version control](http://www.tommeagher.com/blog/2013/03/learning-to-commit-to-version-control.html) with __[git](http://rogerdudler.github.io/git-guide/)__ and __[Github](https://help.github.com/articles/be-social)__
+
+* Download **python** from it's official [site](https://www.python.org/downloads/)
+* Install *python** from **Miniconda** [site](http://conda.pydata.org/miniconda.html)
+* Install **ipython**:
+
+```
+pip install ipython
+# or
+conda install ipython
+```
+
+## Version control
+
+If you want to learn **git** just visit the [tryGit](https://try.github.io/levels/1/challenges/1) site.
 
 ##Keep Practicing
 Try our "[PyCAR basics](https://www.wakari.io/sharing/bundle/tommeagher/PyCAR_basics)" iPython notebook to continue exploring data types and simple methods, or look at the commented [code in Python](PyCAR_basics.py).
@@ -20,9 +30,6 @@ It's worth your time to take a look at Tony DeBarros' [Python snippets](https://
 * __[BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)__, for parsing html or xml, with [a gentle introduction](http://www.pythonforbeginners.com/beautifulsoup/beautifulsoup-4-python) and [another tutorial](http://www.pythonforbeginners.com/beautifulsoup/web-scraping-with-beautifulsoup).
 * __mechanize__. [A tutorial](http://www.pythonforbeginners.com/mechanize/browsing-in-python-with-mechanize/) with its own [cheat sheet](http://www.pythonforbeginners.com/cheatsheet/python-mechanize-cheat-sheet)
 * __json__. [Work with json](http://pymotw.com/2/json/) like it's a dictionary.
-* __[SQLite3](http://zetcode.com/db/sqlitepythontutorial/)__. Use the easy, built-in SQLite database engine.
-* __[peewee](http://peewee.readthedocs.org/en/latest/peewee/quickstart.html)__, an orm that lets you do your SQL in Python.
-* __[python-twitter](https://github.com/bear/python-twitter)__ is good for interacting with the Twitter API.
 * __[Xlrd](http://www.python-excel.org/)__. Do your Excel in Python.
 * __[pandas](http://www.bearrelroll.com/2013/05/python-pandas-tutorial/)__, for data analysis. pandas' dataframe object is like a table.
 * And a cool collection of quick overviews on standard library modules.
