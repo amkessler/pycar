@@ -1,20 +1,20 @@
-# import modules
+# Import modules
 
-FILE_NAME = 'fdic_failed_bank_list.csv'
+# Write a function that accepts one filename as an argument.
+# The functions should  print each row from a csv file as well as each row's length and its type.
 
-# write a function to print each row from a csv file
-# and get its length and if it's a string or an integer
+    # Open the csv
 
-    # open the csv
+    # Create the object that represents the data in the csv file
 
-    # create the object that represents the data in the csv file
+    # Loop through each row in the object
 
-    # loop through each row in the object
+        # Output the contents
 
-        # output the type
+        # Output the length of the row
 
-        # output the length of the row
+        # Output the type
 
-        # output the contents
+    # Close the csv file
 
-    # close the csv file when we're done
+# Call the function, passing as an argument the name of the csv file to open.

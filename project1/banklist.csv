@@ -1,8 +1,11 @@
 Bank Name,City,ST,CERT,Acquiring Institution,Closing Date,Updated Date
-Northern Star Bank,Mankato,MN,34983,BankVista,19-Dec-14,5-Jan-15
-"Frontier Bank, FSB D/B/A El Paseo Bank",Palm Desert,CA,34738,"Bank of Southern California, N.A.",7-Nov-14,21-Nov-14
-The National Republic Bank of Chicago,Chicago,IL,916,State Bank of Texas,24-Oct-14,5-Jan-15
-NBRS Financial,Rising Sun,MD,4862,Howard Bank,17-Oct-14,10-Nov-14
+Capitol City Bank & Trust Company,Atlanta,GA,33938,First-Citizens Bank & Trust Company,13-Feb-15,19-Feb-15
+Highland Community Bank,Chicago,IL,20290,"United Fidelity Bank, fsb",23-Jan-15,11-Feb-15
+First National Bank of Crestview ,Crestview,FL,17557,First NBC Bank,16-Jan-15,11-Feb-15
+Northern Star Bank,Mankato,MN,34983,BankVista,19-Dec-14,4-Feb-15
+"Frontier Bank, FSB D/B/A El Paseo Bank",Palm Desert,CA,34738,"Bank of Southern California, N.A.",7-Nov-14,4-Feb-15
+The National Republic Bank of Chicago,Chicago,IL,916,State Bank of Texas,24-Oct-14,4-Feb-15
+NBRS Financial,Rising Sun,MD,4862,Howard Bank,17-Oct-14,4-Feb-15
 "GreenChoice Bank, fsb",Chicago,IL,28462,"Providence Bank, LLC",25-Jul-14,5-Jan-15
 Eastside Commercial Bank,Conyers,GA,58125,Community & Southern Bank,18-Jul-14,5-Jan-15
 The Freedom State Bank ,Freedom,OK,12483,Alva State Bank & Trust Company,27-Jun-14,18-Jul-14
@@ -14,9 +17,9 @@ AztecAmerica Bank ,Berwyn,IL,57866,Republic Bank of Chicago,16-May-14,18-Jul-14
 Allendale County Bank,Fairfax,SC,15062,Palmetto State Bank,25-Apr-14,18-Jul-14
 Vantage Point Bank,Horsham,PA,58531,First Choice Bank,28-Feb-14,11-Apr-14
 "Millennium Bank, National Association ",Sterling,VA,35096,WashingtonFirst Bank,28-Feb-14,11-Apr-14
-Syringa Bank,Boise,ID,34296,Sunwest Bank,31-Jan-14,11-Apr-14
-The Bank of Union,El Reno,OK,17967,BancFirst,24-Jan-14,14-Nov-14
-DuPage National Bank,West Chicago,IL,5732,Republic Bank of Chicago,17-Jan-14,11-Apr-14
+Syringa Bank,Boise,ID,34296,Sunwest Bank,31-Jan-14,19-Feb-15
+The Bank of Union,El Reno,OK,17967,BancFirst,24-Jan-14,19-Feb-15
+DuPage National Bank,West Chicago,IL,5732,Republic Bank of Chicago,17-Jan-14,19-Feb-15
 "Texas Community Bank, National Association",The Woodlands,TX,57431,"Spirit of Texas Bank, SSB",13-Dec-13,29-Dec-14
 Bank of Jackson County,Graceville,FL,14794,First Federal Bank of Florida,30-Oct-13,5-Nov-14
 First National Bank also operating as The National Bank of El Paso,Edinburg,TX,14318,PlainsCapital Bank,13-Sep-13,12-Sep-14
@@ -67,7 +70,7 @@ Putnam State Bank,Palatka,FL,27405,Harbor Community Bank,15-Jun-12,21-Mar-14
 Waccamaw Bank,Whiteville,NC,34515,First Community Bank,8-Jun-12,21-Mar-14
 Farmers' and Traders' State Bank,Shabbona,IL,9257,First State Bank,8-Jun-12,10-Oct-12
 Carolina Federal Savings Bank,Charleston,SC,35372,Bank of North Carolina,8-Jun-12,21-Mar-14
-First Capital Bank,Kingfisher,OK,416,F & M Bank,8-Jun-12,10-Jun-13
+First Capital Bank,Kingfisher,OK,416,F & M Bank,8-Jun-12,5-Feb-15
 "Alabama Trust Bank, National Association",Sylacauga,AL,35224,Southern States Bank,18-May-12,21-Mar-14
 "Security Bank, National Association",North Lauderdale,FL,23156,Banesco USA,4-May-12,21-Mar-14
 Palm Desert National Bank,Palm Desert,CA,23632,Pacific Premier Bank,27-Apr-12,17-May-13
@@ -83,7 +86,7 @@ New City Bank,Chicago,IL,57597,No Acquirer,9-Mar-12,29-Oct-12
 Global Commerce Bank,Doraville,GA,34046,Metro City Bank,2-Mar-12,26-Jun-14
 Home Savings of America,Little Falls,MN,29178,No Acquirer,24-Feb-12,17-Dec-12
 Central Bank of Georgia,Ellaville,GA,5687,Ameris Bank,24-Feb-12,21-Mar-14
-SCB Bank,Shelbyville,IN,29761,"First Merchants Bank, National Association",10-Feb-12,25-Mar-13
+SCB Bank,Shelbyville,IN,29761,"First Merchants Bank, National Association",10-Feb-12,19-Feb-15
 Charter National Bank and Trust,Hoffman Estates,IL,23187,"Barrington Bank & Trust Company, National Association",10-Feb-12,25-Mar-13
 BankEast,Knoxville,TN,19869,"U.S. Bank, N.A.",27-Jan-12,21-Mar-14
 Patriot Bank Minnesota,Forest Lake,MN,34823,First Resource Bank,27-Jan-12,12-Sep-12
@@ -92,9 +95,9 @@ First Guaranty Bank and Trust Company of Jacksonville,Jacksonville,FL,16579,"Cen
 American Eagle Savings Bank,Boothwyn,PA,31581,"Capital Bank, N.A.",20-Jan-12,25-Jan-13
 The First State Bank,Stockbridge,GA,19252,Hamilton State Bank,20-Jan-12,21-Mar-14
 Central Florida State Bank,Belleview,FL,57186,"CenterState Bank of Florida, N.A.",20-Jan-12,21-Mar-14
-Western National Bank,Phoenix,AZ,57917,Washington Federal,16-Dec-11,12-Nov-13
+Western National Bank,Phoenix,AZ,57917,Washington Federal,16-Dec-11,5-Feb-15
 Premier Community Bank of the Emerald Coast,Crestview,FL,58343,Summit Bank,16-Dec-11,21-Mar-14
-Central Progressive Bank,Lacombe,LA,19657,First NBC Bank,18-Nov-11,13-Aug-12
+Central Progressive Bank,Lacombe,LA,19657,First NBC Bank,18-Nov-11,5-Feb-15
 Polk County Bank,Johnston,IA,14194,Grinnell State Bank,18-Nov-11,15-Aug-12
 Community Bank of Rockmart,Rockmart,GA,57860,Century Bank of Georgia,10-Nov-11,21-Mar-14
 SunFirst Bank,Saint George,UT,57087,Cache Valley Bank,4-Nov-11,16-Nov-12
@@ -110,13 +113,13 @@ First State Bank,Cranford,NJ,58046,Northfield Bank,14-Oct-11,8-Nov-12
 Piedmont Community Bank,Gray,GA,57256,State Bank and Trust Company,14-Oct-11,21-Mar-14
 Sun Security Bank,Ellington,MO,20115,Great Southern Bank,7-Oct-11,7-Nov-12
 The RiverBank,Wyoming,MN,10216,Central Bank,7-Oct-11,7-Nov-12
-First International Bank,Plano,TX,33513,American First National Bank,30-Sep-11,9-Oct-12
+First International Bank,Plano,TX,33513,American First National Bank,30-Sep-11,5-Feb-15
 Citizens Bank of Northern California,Nevada City,CA,33983,Tri Counties Bank,23-Sep-11,9-Oct-12
 Bank of the Commonwealth,Norfolk,VA,20408,Southern Bank and Trust Company,23-Sep-11,9-Oct-12
 The First National Bank of Florida,Milton,FL,25155,CharterBank,9-Sep-11,21-Mar-14
 CreekSide Bank,Woodstock,GA,58226,Georgia Commerce Bank,2-Sep-11,21-Mar-14
 Patriot Bank of Georgia,Cumming,GA,58273,Georgia Commerce Bank,2-Sep-11,21-Mar-14
-First Choice Bank,Geneva,IL,57212,Inland Bank & Trust,19-Aug-11,15-Aug-12
+First Choice Bank,Geneva,IL,57212,Inland Bank & Trust,19-Aug-11,5-Feb-15
 First Southern National Bank,Statesboro,GA,57239,Heritage Bank of the South,19-Aug-11,21-Mar-14
 Lydian Private Bank,Palm Beach,FL,35356,"Sabadell United Bank, N.A.",19-Aug-11,21-Mar-14
 Public Savings Bank,Huntingdon Valley,PA,34130,"Capital Bank, N.A.",18-Aug-11,15-Aug-12
@@ -128,7 +131,7 @@ Integra Bank National Association,Evansville,IN,4392,Old National Bank,29-Jul-11
 Virginia Business Bank,Richmond,VA,58283,Xenith Bank,29-Jul-11,9-Oct-12
 Bank of Choice,Greeley,CO,2994,"Bank Midwest, N.A.",22-Jul-11,12-Sep-12
 LandMark Bank of Florida,Sarasota,FL,35244,American Momentum Bank,22-Jul-11,21-Mar-14
-Southshore Community Bank,Apollo Beach,FL,58056,American Momentum Bank,22-Jul-11,21-Mar-14
+Southshore Community Bank,Apollo Beach,FL,58056,American Momentum Bank,22-Jul-11,5-Feb-15
 Summit Bank,Prescott,AZ,57442,The Foothills Bank,15-Jul-11,19-Aug-14
 First Peoples Bank,Port St. Lucie,FL,34870,"Premier American Bank, N.A.",15-Jul-11,21-Mar-14
 High Trust Bank,Stockbridge,GA,19554,Ameris Bank,15-Jul-11,21-Mar-14
@@ -161,7 +164,7 @@ Western Springs National Bank and Trust,Western Springs,IL,10086,Heartland Bank 
 The Bank of Commerce,Wood Dale,IL,34292,Advantage National Bank Group,25-Mar-11,22-Jan-13
 Legacy Bank,Milwaukee,WI,34818,Seaway Bank and Trust Company,11-Mar-11,12-Sep-12
 First National Bank of Davis,Davis,OK,4077,The Pauls Valley National Bank,11-Mar-11,20-Aug-12
-Valley Community Bank,St. Charles,IL,34187,First State Bank,25-Feb-11,22-Sep-14
+Valley Community Bank,St. Charles,IL,34187,First State Bank,25-Feb-11,5-Feb-15
 "San Luis Trust Bank, FSB",San Luis Obispo,CA,34783,First California Bank,18-Feb-11,20-Aug-12
 Charter Oak Bank,Napa,CA,57855,Bank of Marin,18-Feb-11,12-Sep-12
 Citizens Bank of Effingham,Springfield,GA,34601,Heritage Bank of the South,18-Feb-11,21-Mar-14
@@ -275,7 +278,7 @@ New Liberty Bank,Plymouth,MI,35586,Bank of Ann Arbor,14-May-10,23-Aug-12
 Satilla Community Bank,Saint Marys,GA,35114,Ameris Bank,14-May-10,21-Mar-14
 1st Pacific Bank of California,San Diego,CA,35517,City National Bank,7-May-10,13-Dec-12
 Towne Bank of Arizona,Mesa,AZ,57697,Commerce Bank of Arizona,7-May-10,23-Aug-12
-Access Bank,Champlin,MN,16476,PrinsBank,7-May-10,23-Aug-12
+Access Bank,Champlin,MN,16476,PrinsBank,7-May-10,5-Feb-15
 The Bank of Bonifay,Bonifay,FL,14246,First Federal Bank of Florida,7-May-10,5-Nov-12
 Frontier Bank,Everett,WA,22710,"Union Bank, N.A.",30-Apr-10,15-Jan-13
 BC National Banks,Butler,MO,17792,Community First Bank,30-Apr-10,23-Aug-12
@@ -378,10 +381,10 @@ Community Bank of Lemont,Lemont,IL,35291,U.S. Bank N.A.,30-Oct-09,15-Jan-13
 First DuPage Bank,Westmont,IL,35038,First Midwest Bank,23-Oct-09,22-Aug-12
 Riverview Community Bank,Otsego,MN,57525,Central Bank,23-Oct-09,22-Aug-12
 Bank of Elmwood,Racine,WI,18321,Tri City National Bank,23-Oct-09,22-Aug-12
-Flagship National Bank,Bradenton,FL,35044,First Federal Bank of Florida,23-Oct-09,22-Aug-12
+Flagship National Bank,Bradenton,FL,35044,First Federal Bank of Florida,23-Oct-09,5-Feb-15
 Hillcrest Bank Florida,Naples,FL,58336,Stonegate Bank,23-Oct-09,22-Aug-12
 American United Bank,Lawrenceville,GA,57794,Ameris Bank,23-Oct-09,5-Sep-12
-Partners Bank,Naples,FL,57959,Stonegate Bank,23-Oct-09,15-Jan-13
+Partners Bank,Naples,FL,57959,Stonegate Bank,23-Oct-09,5-Feb-15
 San Joaquin Bank,Bakersfield,CA,23266,Citizens Business Bank,16-Oct-09,22-Aug-12
 Southern Colorado National Bank,Pueblo,CO,57263,Legacy Bank,2-Oct-09,5-Sep-12
 Jennings State Bank,Spring Grove,MN,11416,Central Bank,2-Oct-09,21-Aug-12
@@ -392,7 +395,7 @@ Irwin Union Bank and Trust Company,Columbus,IN,10100,"First Financial Bank, N.A.
 Venture Bank,Lacey,WA,22868,First-Citizens Bank & Trust Company,11-Sep-09,21-Aug-12
 Brickwell Community Bank,Woodbury,MN,57736,CorTrust Bank N.A.,11-Sep-09,15-Jan-13
 "Corus Bank, N.A.",Chicago,IL,13693,"MB Financial Bank, N.A.",11-Sep-09,21-Aug-12
-First State Bank,Flagstaff,AZ,34875,Sunwest Bank,4-Sep-09,15-Jan-13
+First State Bank,Flagstaff,AZ,34875,Sunwest Bank,4-Sep-09,5-Feb-15
 Platinum Community Bank,Rolling Meadows,IL,35030,No Acquirer,4-Sep-09,21-Aug-12
 Vantus Bank,Sioux City,IA,27732,Great Southern Bank,4-Sep-09,21-Aug-12
 InBank,Oak Forest,IL,20203,"MB Financial Bank, N.A.",4-Sep-09,21-Aug-12
@@ -437,8 +440,8 @@ Rock River Bank,Oregon,IL,15302,The Harvard State Bank,2-Jul-09,20-Aug-12
 First State Bank of Winchester,Winchester,IL,11710,The First National Bank of Beardstown,2-Jul-09,20-Aug-12
 John Warner Bank,Clinton,IL,12093,State Bank of Lincoln,2-Jul-09,20-Aug-12
 Mirae Bank,Los Angeles,CA,57332,Wilshire State Bank,26-Jun-09,20-Aug-12
-MetroPacific Bank,Irvine,CA,57893,Sunwest Bank,26-Jun-09,20-Aug-12
-Horizon Bank,Pine City,MN,9744,"Stearns Bank, N.A.",26-Jun-09,20-Aug-12
+MetroPacific Bank,Irvine,CA,57893,Sunwest Bank,26-Jun-09,5-Feb-15
+Horizon Bank,Pine City,MN,9744,"Stearns Bank, N.A.",26-Jun-09,5-Feb-15
 Neighborhood Community Bank,Newnan,GA,35285,CharterBank,26-Jun-09,20-Aug-12
 Community Bank of West Georgia,Villa Rica,GA,57436,No Acquirer,26-Jun-09,17-Aug-12
 First National Bank of Anthony,Anthony,KS,4614,Bank of Kansas,19-Jun-09,17-Aug-12
@@ -523,7 +526,7 @@ Universal Federal Savings Bank,Chicago,IL,29355,Chicago Community Bank,27-Jun-02
 Connecticut Bank of Commerce,Stamford,CT,19183,Hudson United Bank,26-Jun-02,14-Feb-12
 New Century Bank,Shelby Township,MI,34979,No Acquirer,28-Mar-02,18-Mar-05
 Net 1st National Bank,Boca Raton,FL,26652,Bank Leumi USA,1-Mar-02,9-Apr-08
-"NextBank, NA",Phoenix,AZ,22314,No Acquirer,7-Feb-02,27-Aug-10
+"NextBank, NA",Phoenix,AZ,22314,No Acquirer,7-Feb-02,5-Feb-15
 Oakwood Deposit Bank Co.,Oakwood,OH,8966,The State Bank & Trust Company,1-Feb-02,25-Oct-12
 Bank of Sierra Blanca,Sierra Blanca,TX,22002,The Security State Bank of Pecos,18-Jan-02,6-Nov-03
 "Hamilton Bank, NA",Miami,FL,24382,Israel Discount Bank of New York,11-Jan-02,5-Jun-12
