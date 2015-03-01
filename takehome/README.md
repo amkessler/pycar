@@ -3,7 +3,7 @@
 ##Get your machine ready
 
 * Download **python** from it's official [site](https://www.python.org/downloads/)
-* Install *python*** from **Miniconda** [site](http://conda.pydata.org/miniconda.html)
+* Install **python** from **Miniconda** [site](http://conda.pydata.org/miniconda.html)
 * Install **ipython**:
 
 ```
