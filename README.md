@@ -65,11 +65,3 @@ If you're working through this code at home and have trouble, please let us know
 The best option is to [file an issue report](https://github.com/rnagle/pycar/issues) of the bug so we can help you.
 
 You can also reach out to any of us [on Twitter](https://github.com/rnagle/pycar/blob/master/CONTRIBUTORS.md) or ping [PythonJournos](https://groups.google.com/forum/#!forum/PythonJournos).
-
-## TODO:
-
-  - IPython notebook for types and functions
-  - Clean IPython notebook for project 1
-  - Ipython notebook for project 2
-  - Take home? Let's get rid of this for now or at least clean it and make it for human beings
-  - Use matplotlib to add some love!
