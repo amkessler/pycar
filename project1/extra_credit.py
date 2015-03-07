@@ -1,7 +1,7 @@
 # Import your csv module
 
 # Write a function that accepts one csv filename as an argument.
-# The functions hould open the file, read its contents and filter out rows where
+# The function should open the file, read its contents and filter out rows where
 # the state abbreviation is MD, writing only those rows to an md_banks.csv file.
 
     # Open the file to read and create the reader object
