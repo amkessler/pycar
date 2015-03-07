@@ -39,12 +39,19 @@ def break_apart_states_into_files():
             # close the file
             output_file.close()
 
+
 def compare_states_to_nation(state):
-    for state in us.states.STATES:
-        pass
+    # This code does nothing. It's merely show how you might compare against
+    # the whole
+    pass
+
 
 def blastoff():
+    # This is the master function. This makes it easy to debug and figure out
+    # what to do when stuff breaks. Contact us if you have questions
     break_apart_states_into_files()
-    compare_states_to_nation()
+    for state in us.states.STATES:
+        compare_states_to_nation(state)
 
+# Run the main function
 blastoff()
