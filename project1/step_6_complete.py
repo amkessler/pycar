@@ -2,7 +2,7 @@
 import csv
 
 # Write a function to do some more exploring with strings
-def more_working_with_strings(file_name):
+def doing_more_with_strings(file_name):
 
     # Open the csv
     csv_file = open(file_name, 'rb')
@@ -55,4 +55,4 @@ def more_working_with_strings(file_name):
     csv_file.close()
 
 # Call the function, passing as an argument the name of the csv file to open.
-more_working_with_strings('banklist.csv')
+doing_more_with_strings('banklist.csv')

@@ -1,7 +1,7 @@
 # import modules
 import csv
 
-FILE_NAME = 'fdic_failed_bank_list.csv'
+FILE_NAME = 'banklist.csv'
 
 # write a function to open a csv file
 def open_csv_file(file_name):
@@ -268,6 +268,6 @@ open_csv_file(FILE_NAME)
 #count_csv_rows(FILE_NAME)
 #output_rows_from(FILE_NAME)
 #output_first_csv_row(FILE_NAME)
-#basic_string_methods(FILE_NAME)
-#more_string_methods(FILE_NAME)
+#working_with_strings(FILE_NAME)
+#doing_more_with_strings(FILE_NAME)
 #working_with_integers(FILE_NAME)
